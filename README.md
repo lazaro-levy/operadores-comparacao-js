@@ -1,5 +1,5 @@
 # Desafio 10 - Operadores de Comparação
-
+**Enunciado:** Pesquise a diferença entre == e ===, e entre != e !==, e o que é coerção de tipos em JavaScript. Pesquise também como o JavaScript compara duas strings com > e <.
 ## Operadores que validam por tipo e valor
 Esse tipo de operador considera o tipo da variável e o seu valor para validar uma condição, as duas existentes são:
 - **Estritamente igual (`===`):** Avalia se o **valor e o tipo da variável são iguais** entre as operações ou valores. Se houver qualquer diferença em tipo ou valor, a condição resulta em `false`.
